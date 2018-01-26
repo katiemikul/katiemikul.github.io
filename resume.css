@@ -32,6 +32,13 @@ background {
   background-image: url("http://www.cornerstonecmc.org/grey-texture-background-and-wallpaper-16/");
   background-size: cover;
 }
+
+spacing {
+  border: 2px solid grey;
+  margin: 10px;
+  margin-top: 20px;
+  padding: 10px;
+}
   
 date {
   float: left;
