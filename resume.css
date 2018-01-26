@@ -26,10 +26,10 @@ description {
 
 background {
   border: 2px solid grey;
-  margin: 10px;
-  margin-top: 20px;
+  margin: 0px;
   padding: 10px;
-  background-image: url("http://www.cornerstonecmc.org/grey-texture-background-and-wallpaper-16/");
+  background-position: center top;
+  background-image: url("https://n6-img-fp.akamaized.net/free-photo/white-concrete-wall-for-background_1249-263.jpg?size=338&ext=jpg");
   background-size: cover;
 }
 
