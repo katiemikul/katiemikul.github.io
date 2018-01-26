@@ -30,7 +30,7 @@ background {
 }
   
 date {
-  float: right;
+  float: left;
 }
 p {
   padding: 10px;
