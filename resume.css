@@ -20,6 +20,7 @@ h5 {
 description {
   font-family: Calibra, Cambria, Times New Roman;
   font-size: 24px;
+  flex-wrap: wrap;
   
 }
 
