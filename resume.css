@@ -1,12 +1,11 @@
 h2 {
-color:royalblue;
   font-family: Calibra, Cambria, Times New Roman;
   text-align: center;
   font-size: 48px;
   
   }
 h3 {
-  color:royalblue;
+  color:steelblue;
   font-family: Calibra, Cambria, Times New Roman;
   font-size: 32px;
   
@@ -21,4 +20,5 @@ description {
 background {
   background-image: url("http://l.rgbimg.com/cache1wbq8i/users/c/ca/carloszk/600/ov6dvyY.jpg");
   background-size: cover;
+}
   
