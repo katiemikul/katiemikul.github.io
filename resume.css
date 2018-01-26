@@ -28,6 +28,9 @@ background {
   background-size: cover;
 }
   
+date {
+  float: right;
+}
 p {
   padding: 10px;
 }
