@@ -2,18 +2,21 @@ h2 {
   font-family: Calibra, Cambria, Times New Roman;
   text-align: center;
   font-size: 48px;
+  padding: 10px;
   
   }
 h4 {
   color:steelblue;
   font-family: Calibra, Cambria, Times New Roman;
   font-size: 20px;
+  padding: 10px;
   
 }
 
 h5 {
   font-family: Calibra, Cambria, Times New Roman;
   font-size: 16px;
+  padding: 10px;
   
 }
 
@@ -21,6 +24,7 @@ description {
   font-family: Calibra, Cambria, Times New Roman;
   font-size: 24px;
   flex-wrap: wrap;
+  padding: 10px;
   
 }
 
