@@ -9,6 +9,7 @@ h4 {
   color:steelblue;
   font-family: Cambria, Times New Roman;
   font-size: 20px;
+  font-style: bold;
   margin: 10px
   
   
@@ -41,9 +42,9 @@ background {
 
 spacing {
  width: 800px;
-  margin: 10;
+  margin: 0 0 16px 0;
   border: 5px solid black;
-  padding: 30px;
+  padding: 0 0 32px 0;
   line-height: 1.5;
 }
   
