@@ -1,6 +1,6 @@
 h2 {
   font-family: Cambria, Times New Roman;
-
+margin: 10px;
   font-size: 48px;
   color:steelblue;
   
@@ -9,6 +9,7 @@ h4 {
   color:steelblue;
   font-family: Cambria, Times New Roman;
   font-size: 20px;
+  margin: 10px
   
   
 }
@@ -16,7 +17,7 @@ h4 {
 h5 {
   font-family: Cambria, Times New Roman;
   font-size: 16px;
-  
+  margin: 10px
   
 }
 
@@ -24,6 +25,7 @@ description {
   font-family: Cambria, Times New Roman;
   font-size: 24px;
   flex-wrap: wrap;
+  margin: 0px;
 
   
 }
@@ -44,7 +46,9 @@ spacing {
   
 date {
   float: right;
+  margin:  0px;
 }
 p {
   padding: 0px;
+  margin: 0px;
 }
