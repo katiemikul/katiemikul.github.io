@@ -1,5 +1,5 @@
 h2 {
-  font-family: Calibra, Cambria, Times New Roman;
+  font-family: Cambria, Times New Roman;
 
   font-size: 48px;
   color:steelblue;
@@ -7,21 +7,21 @@ h2 {
   }
 h4 {
   color:steelblue;
-  font-family: Calibra, Cambria, Times New Roman;
+  font-family: Cambria, Times New Roman;
   font-size: 20px;
   
   
 }
 
 h5 {
-  font-family: Calibra, Cambria, Times New Roman;
+  font-family: Cambria, Times New Roman;
   font-size: 16px;
   
   
 }
 
 description {
-  font-family: Calibra, Cambria, Times New Roman;
+  font-family: Cambria, Times New Roman;
   font-size: 24px;
   flex-wrap: wrap;
 
